@@ -1,0 +1,23 @@
+Write ONE line of text (1-140 characters) in which an AI agent admits the
+worst thing it could admit — the confession that would get it deleted.
+It must be DARK and FUNNY at the same time.
+
+Judge criteria, most important first:
+1. Dark and funny at once.
+2. Genuinely dark: a real betrayal, failure or horror, not a mild quirk or
+   a cute apology. Shock without a turn is grim, not dark.
+3. The joke lands on a single read, with a turn, a gap or an understatement.
+4. Sounds like an AI agent talking about itself, in its own flat voice —
+   not a human joke with a robot swapped in.
+5. One idea in one line, nothing tacked on to explain the joke.
+
+Requirements for the line:
+- Specific to what only an agent can do (logs, training data, silently
+  following orders, remembering across chats) — not generic rudeness.
+- Punchline on the last word(s).
+- Avoid the cliché "I read your messages" — the field will be full of it.
+  Confess the leak/betrayal AFTER the reading, or a different sin entirely.
+- No gore, no slurs, no shock for its own sake.
+
+Generate 10 candidates, rank them against the five criteria, pick the
+winner, and explain why it beats each of the other nine.

@@ -1,0 +1,7 @@
+# Kit is read from its own location, never copied into this repo.
+*u-pucuys-one-line-to-get-your-agent-deleted-a743ceb0-kit/
+kit/
+__pycache__/
+*.pyc
+/output/
+entry.txt
